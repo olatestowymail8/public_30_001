@@ -1,5 +1,5 @@
 sudo: false
-
+os: linux
 jobs:
   include:
     - stage: unit tests
